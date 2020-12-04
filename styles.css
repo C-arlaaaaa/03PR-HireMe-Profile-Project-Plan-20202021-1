@@ -1,0 +1,32 @@
+h1 
+{font-family: "Comic Sans";
+font-size: 50px;
+text-align: center;
+color: #BC8F8F	;}
+h2 
+{font-family: 'Caveat', cursive;
+font-size: 40px;
+text-align: left;
+color: #D2B48C;}
+h3
+{font-family: "Comic Sans";
+font-size: 40px;
+text-align: center;
+color:#BC8F8F;}
+ul
+{font-family: "Comic Sans";
+font-size: 16px;
+text-align: left;
+    color:#A0522D;}
+.family
+{width: 370px;
+border-radius: 10px;
+float: right;
+padding: 5px;}
+.friends
+{width: 330px;
+border-radius: 10px;
+float: left;
+padding: 5px;}
+body 
+{background-image: linear-gradient(#FFFFFF, #FFE4E1);}
